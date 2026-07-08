@@ -1,7 +1,0 @@
-### AI Integration (7/7/26)
-
-- Configured Google Gemini API
-- Secured API key using `.env`
-- Connected FastAPI backend to Gemini 2.5 Flash
-- Successfully generated first AI response
-- Refactored project architecture to separate AI logic
